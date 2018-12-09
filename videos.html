@@ -1,0 +1,130 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starship Troopers - Videos</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link href="http://allfont.net/allfont.css?fonts=agency-fb" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <main class="cont">
+      <h1 class="hide">Starship Troopers - Videos</h1>
+      <div class="row" id="bgCon">
+        <img src="images/header_bg.svg" alt="Background Shape" id="headBG" class="show-for-large">
+      </div>
+
+      <header class="row" id="headerRow">
+        <h2 class="hide">Header</h2>
+
+        <div class="columns small-9 large-3">
+          <img src="images/stLogo.svg" alt="Starship Troopers Logo" id="mainLogo">
+        </div>
+
+        <div class="columns large-1 large-offset-3 show-for-large team">
+          <select name="teamSelector" id="teamSelector">
+            <option value="choose">Choose a Team</option>
+            <option value="federation">The Federation</option>
+            <option value="klendathu">Klendathu Aliens</option>
+          </select>
+        </div>
+
+        <div class="columns small-3" data-responsive-toggle="main-menu" data-hide-for="large">
+          <img src="images/menu.svg" alt="Menu Icon" data-toggle="main-menu">
+        </div>
+        <div id="main-menu" class="columns small-12">
+          <ul id="mainNav" class="no-bullet">
+            <li><a href="index.html" class="navItems">HOME</a></li>
+            <li><a href="story.html" class="navItems">STORY</a></li>
+            <li><a href="#" class="navItems">VIDEOS</a></li>
+            <li><a href="gallery.html" class="navItems">GALLERY</a></li>
+            <li><a href="register.html" class="navItemsLast">REGISTER</a></li>
+          </ul>
+        </div>
+      </header>
+
+      <div class="row">
+          <video src="videos/st_trailer.mp4" class="small-12 trailer"></video>
+      </div>
+
+      <div class="vidControls row">
+        <div class="small-2 medium-1 columns restart vidBut">
+          <img src="images/icons/restart.svg" alt="restart button">
+        </div>
+
+        <div class="small-2 medium-1 small-offset-1 medium-offset-3 columns skipB vidBut">
+          <img src="images/icons/skip_bck.svg" alt="skip back button">
+        </div>
+
+        <div class="small-2 medium-1 columns pause hide vidBut">
+          <img src="images/icons/pause.svg" alt="pause button">
+        </div>
+
+        <div class="small-2 medium-1 columns play vidBut">
+          <img src="images/icons/play.svg" alt="play button">
+        </div>
+
+        <div class="small-2 medium-1 columns skipF vidBut">
+          <img src="images/icons/skip_fwd.svg" alt="skip forward button">
+        </div>
+
+        <div id="seek" class="small-12 columns">
+          <p id="timeText"><span id="curTimeText">0:00 /</span>  <span id="durTimeText">0:48</span></p>
+          <input type="range" min="0" max="100" value="0" step="1" id="seekSlider">
+        </div>
+      </div>
+
+
+
+      <div class="row columns">
+        <div class="metalBox small-3 columns"></div>
+        <h2 class="secTitle small-6 columns">BUY NOW</h2>
+        <div class="metalBox small-3 columns"></div>
+      </div>
+
+      <div class="row">
+        <div class="columns small-4 small-offset-1 medium-offset-2 medium-2 buyBut">
+          <a href="#" class="">DOWNLOAD</a>
+        </div>
+
+        <div class="columns small-4 small-offset-2 medium-offset-4 medium-2 end buyBut">
+          <a href="#" class="">ORDER</a>
+        </div>
+      </div>
+
+      <div class="row">
+        <img src="images/buy.png" alt="Buy your own copy today!" class="small-12 large-10 large-offset-1 columns" id="buyImg">
+      </div>
+
+      <footer class="row">
+        <div class="columns small-12">
+          <div class="columns small-12" id="footBox">
+
+            <ul class="menu simple show-for-large" id="footNav">
+              <li><a href="index.html">HOME</a></li>
+              <li><a href="story.html">STORY</a></li>
+              <li><a href="#">VIDEOS</a></li>
+              <li><a href="gallery.html">GALLERY</a></li>
+              <li><a href="register.html">REGISTER</a></li>
+            </ul>
+
+            <ul class="menu simple" id="legal">
+              <li class="legalItem"><a href="#">PRIVACY POLICY</a></li>
+              <li class="legalItem"><a href="#">TERMS & CONDITIONS</a></li>
+              <li class="legalItem" id="legalItemLast">&copy; STFanClub 2018</li>
+            </ul>
+
+          </div>
+        </div>
+      </footer>
+
+
+    </main>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

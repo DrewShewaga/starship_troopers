@@ -1,0 +1,18 @@
+<svg id="return" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 455 455">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <title>Restart</title>
+  <rect id="borderRT" class="cls-1" x="2.5" y="2.5" width="450" height="450" rx="30" ry="30"/>
+  <path id="return_arrowRT" class="cls-2" d="M249.5,113.5a136,136,0,0,0-130.08,96.23H91.11L125.5,269.3l34.39-59.57H131a125,125,0,1,1,.75,81.77H120.12a136,136,0,1,0,129.38-178Z" transform="translate(-22.5 -22.5)"/>
+</svg>

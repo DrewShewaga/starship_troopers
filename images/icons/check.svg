@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1026.12 1176.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="167.11" y1="311.02" x2="706.87" y2="622.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a4a4a4"/>
+      <stop offset="0.01" stop-color="#a8a8a8"/>
+      <stop offset="0.12" stop-color="#cecece"/>
+      <stop offset="0.21" stop-color="#e9e9e9"/>
+      <stop offset="0.3" stop-color="#f9f9f9"/>
+      <stop offset="0.36" stop-color="#fff"/>
+      <stop offset="0.43" stop-color="#fafafa"/>
+      <stop offset="0.52" stop-color="#ebebeb"/>
+      <stop offset="0.62" stop-color="#d1d1d1"/>
+      <stop offset="0.72" stop-color="#afafaf"/>
+      <stop offset="0.74" stop-color="#a4a4a4"/>
+      <stop offset="0.88" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a4a4a4"/>
+      <stop offset="1" stop-color="#484546"/>
+    </linearGradient>
+  </defs>
+  <title>check_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="check">
+      <polygon id="checkpath" class="cls-1" points="466.46 1038.2 1026.12 68.84 906.89 0 382.8 893.36 119.23 531.62 0 600.46 386.57 1175.44 386.58 1175.43 386.88 1176.04 432.13 1097.66 466.71 1038.63 466.46 1038.2"/>
+    </g>
+  </g>
+</svg>

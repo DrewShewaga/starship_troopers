@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1978.52 582.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-13);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-14);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-15);
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient-16);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="526.5" y1="-7.48" x2="526.5" y2="602.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333"/>
+      <stop offset="0.04" stop-color="#3c3c3c"/>
+      <stop offset="0.11" stop-color="#545454"/>
+      <stop offset="0.19" stop-color="#7c7c7c"/>
+      <stop offset="0.25" stop-color="#999"/>
+      <stop offset="0.28" stop-color="#8d8d8d"/>
+      <stop offset="0.37" stop-color="#656565"/>
+      <stop offset="0.45" stop-color="#4d4d4d"/>
+      <stop offset="0.5" stop-color="#444"/>
+      <stop offset="0.55" stop-color="#4d4d4d"/>
+      <stop offset="0.63" stop-color="#656565"/>
+      <stop offset="0.72" stop-color="#8d8d8d"/>
+      <stop offset="0.75" stop-color="#999"/>
+      <stop offset="0.81" stop-color="#7c7c7c"/>
+      <stop offset="0.89" stop-color="#545454"/>
+      <stop offset="0.96" stop-color="#3c3c3c"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="665.5" y1="-7.48" x2="665.5" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="740.5" y1="-7.48" x2="740.5" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="903.81" y1="-7.48" x2="903.81" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1073.9" y1="-7.48" x2="1073.9" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1233.5" y1="-7.48" x2="1233.5" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="1358.5" y1="-7.48" x2="1358.5" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="1478.9" y1="-7.48" x2="1478.9" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="1863.9" y1="-7.48" x2="1863.9" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="1415.9" y1="-7.48" x2="1415.9" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="966" y1="-7.48" x2="966" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="928.42" y1="-7.48" x2="928.42" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="1694.42" y1="-7.48" x2="1694.42" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="1097.34" y1="-7.48" x2="1097.34" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="1258.34" y1="-7.48" x2="1258.34" y2="602.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="1562" y1="-7.48" x2="1562" y2="602.52" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>stLogo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Logo">
+      <g id="Starship_Troopers_Normal" data-name="Starship Troopers_Normal">
+        <g id="Starship">
+          <path id="S" class="cls-1" d="M0,310H438s53-2,91-65,60-95,60-95,28-44-40-45-136,0-136,0H387s-22,4-4-21,21-33,21-33,0-13,42-12,58,0,58,0h523l26-39H408s-68-2-96,34-76,111-76,111-24,44,28,44H443s16-2,6,13-38,59-38,59-2,8-16,8H29Z"/>
+          <polygon id="T" class="cls-2" points="609 249.02 558 249.02 668 80.02 671 75.02 613 75.02 629 54.02 773 54.02 754 75.02 718 75.02 609 249.02"/>
+          <path id="A" class="cls-3" d="M789,54,631,249h49l16-19h31l-13,19h54L850,54ZM741,202H715L796,95Z"/>
+          <path id="R" class="cls-4" d="M1002,54H910L787,249h49s46-72,51-80,7-8,7-8h12c11,0,4,9,4,9l-51,79h55l17-27s33-51,35-61-9-11-9-11c11-2,24-15,24-15s16-23,34-50S1002,54,1002,54ZM965,86l-30,45s-2,5-7,5-22-1-22-1l39-57h23S972,77,965,86Z"/>
+          <path id="S-2" data-name="S" class="cls-5" d="M994,178l-30,48s-16,24,11,24h71a31.37,31.37,0,0,0,28-11c12-14,58-82,58-82s13-18-14-18h-47s-7,1-2-5l36-52s1-2,6-2h17s4,0,1,4l-28,40h53l31-50s13-20-11-20h-73s-22,0-33,14-46,62-46,62-30,30,10,30h45s6-1-3,11l-28,44-4,6a7.94,7.94,0,0,1-7,4h-19s-1-1,1-3l28-44Z"/>
+          <path id="H" class="cls-6" d="M1105,249,1231,54h50l-51,79s-4,6,3,6h20a16.65,16.65,0,0,0,5-6c2-4,50-79,50-79h54L1238,249h-53l53-81s3-4-5-4h-19a59.23,59.23,0,0,0-4,6c-1,2-51,79-51,79Z"/>
+          <polygon id="I" class="cls-7" points="1268 249.02 1396 54.02 1449 54.02 1328 250.02 1268 249.02"/>
+          <path id="P" class="cls-8" d="M1582,54h-97L1358,249h55s22-38,26-44,9-5,9-5h37c42,0,58-37,58-37l13-22s8-14,34-52S1582,54,1582,54Zm-38,31c-5,6-56,86-56,86s-2,4-6,4h-25l61-96h27S1549,79,1544,85Z"/>
+        </g>
+        <g id="Troopers">
+          <path id="S-3" data-name="S" class="cls-9" d="M1784,453l-30,48s-16,24,11,24h71a31.37,31.37,0,0,0,28-11c12-14,58-82,58-82s13-18-14-18h-47s-7,1-2-5l36-52s1-2,6-2h17s4,0,1,4l-28,40h53l31-50s13-20-11-20h-73s-22,0-33,14-46,62-46,62-30,30,10,30h45s6-1-3,11l-28,44-4,6a7.94,7.94,0,0,1-7,4h-19s-1-1,1-3l28-44Z"/>
+          <path id="P-2" data-name="P" class="cls-10" d="M1519,330h-97L1295,525h55s22-38,26-44,9-5,9-5h37c42,0,58-37,58-37l13-22s8-14,34-52S1519,330,1519,330Zm-38,31c-5,6-56,86-56,86s-2,4-6,4h-25l61-96h27S1486,355,1481,361Z"/>
+          <path id="T-2" data-name="T" class="cls-11" d="M745,582H619L799,310s2-3-3-3H522l33-45h855l-30,45H918s-3,0-6,5Z"/>
+          <path id="R-2" data-name="R" class="cls-12" d="M1031,329H935L806,525h56l53-84a3.7,3.7,0,0,1,3-2h21s3,0,1,3l-55,83h54l49-79s12-20-8-25c0,0,17,3,24-7l41-63S1065,329,1031,329Zm-39,32-32,47s0,1-6,1H933l34-55h26S996,355,992,361Z"/>
+          <path id="R-3" data-name="R" class="cls-13" d="M1797,329h-96L1572,525h56l53-84a3.7,3.7,0,0,1,3-2h21s3,0,1,3l-55,83h54l49-79s12-20-8-25c0,0,17,3,24-7l41-63S1831,329,1797,329Zm-39,32-32,47s0,1-6,1h-21l34-55h26S1762,355,1758,361Z"/>
+          <path id="O" class="cls-14" d="M1192,329h-62s-22-3-41,21l-75,114-25,35s-20,26,12,26h82s12,0,17-5,74-111,74-111l32-52S1226,329,1192,329Zm-38,32-87,137c-3,5-6,4-6,4h-18c-3,0-1-3-1-3l90-142a7.47,7.47,0,0,1,3-3h17C1160,354,1154,361,1154,361Z"/>
+          <path id="O-2" data-name="O" class="cls-15" d="M1353,329h-62s-22-3-41,21l-75,114-25,35s-20,26,12,26h82s12,0,17-5,74-111,74-111l32-52S1387,329,1353,329Zm-38,32-87,137c-3,5-6,4-6,4h-18c-3,0-1-3-1-3l90-142a7.47,7.47,0,0,1,3-3h17C1321,354,1315,361,1315,361Z"/>
+          <polygon id="E" class="cls-16" points="1543 525.02 1559 500.02 1523 500.02 1563 439.02 1601 439.02 1615 414.02 1579 414.02 1616 354.02 1654 354.02 1669 329.02 1585 329.02 1455 525.02 1543 525.02"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

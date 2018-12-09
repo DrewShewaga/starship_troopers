@@ -1,0 +1,17 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a68e6f;
+      }
+
+      .cls-2 {
+        fill: #5c5c5c;
+      }
+    </style>
+  </defs>
+  <title>menu_close</title>
+  <rect id="borderM1" class="cls-1" width="450" height="450" rx="30" ry="30"/>
+  <rect id="bar2M1" class="cls-2" x="85" y="237.5" width="330" height="25" rx="8" ry="8" transform="translate(-128.55 225) rotate(-45)"/>
+  <rect id="bar2M1-2" data-name="bar2M1" class="cls-2" x="85" y="237.5" width="330" height="25" rx="8" ry="8" transform="translate(225 -128.55) rotate(45)"/>
+</svg>
